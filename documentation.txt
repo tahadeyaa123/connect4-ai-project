@@ -1,0 +1,35 @@
+Connect 4 AI Project Documentation
+
+Project Title: Connect 4 with AI (Minimax Algorithm)
+
+1. Project Description:
+- A game where the player competes against AI using Minimax strategy.
+
+2. Environment Setup:
+- Python 3.x, built-in libraries.
+
+3. Game Rules:
+- Standard Connect 4 rules.
+
+4. Project Structure:
+- Functions for board creation, move dropping, win checking, and AI decision-making.
+
+5. How AI Plays:
+- Minimax algorithm with alpha-beta pruning, depth = 5.
+
+6. Input Validation:
+- Ensures player inputs valid moves.
+
+7. How To Play:
+- Run script, player starts first, alternate moves until win/draw.
+
+8. Future Enhancements:
+- Adding GUI, improving AI evaluation.
+
+9. GitHub Contribution:
+- Create repo, push files, include screenshots.
+
+10. Team:
+- Solo Project.
+
+Good Luck!
